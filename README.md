@@ -1,4 +1,4 @@
-# School_District_Analysis Challenge Findings
+# School District Analysis
 
 ## Recreate the district and school summary DataFrames:
 1. How is the district summary affected?
